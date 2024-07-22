@@ -6,6 +6,7 @@ import TopRated from "./components/top-rated";
 import UpComing from "./components/up-coming";
 
 export default function App() {
+  // call api helper
   return (
     <>
       <Banner />

@@ -22,6 +22,7 @@ export default function Banner() {
         <a
           href="https://youtube.com"
           target="_blank"
+          rel="noreferrer"
           className="inline-block uppercase px-6 py-3 rounded-md bg-red-700 tracking-wider font-medium"
         >
           Watch Trailer
